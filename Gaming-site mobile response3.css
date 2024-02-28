@@ -211,9 +211,12 @@
     position: relative;
     right: 80px;
     cursor: pointer;
+    transition: 1s;
 
 }
-
+.content-left-input2:hover{
+    background-color: #117ef8;
+}
 #button {
     align-items: center;
     padding-right: 140px;
